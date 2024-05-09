@@ -2,6 +2,10 @@
   "name": "remux",
   "private": true,
   "sideEffects": false,
+  "author": {
+    "name": "spa5k",
+    "email": "x@x.com"
+  },
   "type": "module",
   "description": "nice",
   "version": "0.0.1",
